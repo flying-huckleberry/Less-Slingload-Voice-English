@@ -1,4 +1,4 @@
-ENGLISH CARGO VOICE ASSIST MOD
+LESS SLINGLOAD VOICE ASSISTANCE + ENGLISH ONLY VOICE ASSISTANCE
 
 When slingloading external cargo, there is a voice assistant that constantly provides situational awareness.  This mod allows you to mute any/all of those sound bites.
 ADDITIONALLY, all of the default Russian sound bites which remain unmuted are now English.
