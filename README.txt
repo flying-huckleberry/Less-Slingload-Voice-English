@@ -23,9 +23,12 @@ The following sounds have been MUTED:
 
  cargo_ropes_normal	(load is hanging steady, take it away)
  cargo_ropes_normal_2	(load is hanging steady)
+ cargo_hooked		(russian only)
+ cargo_is_unhooked      (russian only)
  transverse_swing	(the load is swinging side to side)
  longitudinal_swing	(the load is swinging fore and aft)
  taut_of_rope		(take tension)
+ rope_is_torn           (russian only)
  meter_ground		(load is 1m off the ground)
  three_ground		(3m off the ground)
  twenty_ground		(20ft off the ground)
@@ -67,7 +70,8 @@ UNMUTING A SOUND:
     /External Cargo Voice Assist Mod/.../ENG/.../Messages
 
 NOTE: If you want the Russian voice for Russian aircraft,
-      use the other mod, EXTERNAL CARGO VOICE ASSIST MOD
+      use the other mod, LESS SLINGLOAD VOICE ASSIST
+https://github.com/flying-huckleberry/Less-Slingload-Voice-Assist/releases
 
 by Chic and Huckleberry (A/229)
 flyinghuckleberry@gmail.com
