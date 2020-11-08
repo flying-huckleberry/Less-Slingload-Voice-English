@@ -1,6 +1,7 @@
 LESS SLINGLOAD VOICE ASSISTANCE
 
 When slingloading external cargo, there is a voice assistant that constantly provides situational awareness.  This mod allows you to mute any/all of those sound bites.
+ADDITIONALLY, the default language for USSR has been changed to NATO.  I have not tested the effects of this change in ANY other aircraft besides the Mi-8.  So this might cause unforeseen speech audio bugs in other Russian aircraft.
 
 The following are sounds you will STILL HEAR:
 
