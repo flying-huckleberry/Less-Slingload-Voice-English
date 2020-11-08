@@ -55,9 +55,9 @@ UNMUTING A SOUND:
   Uncomment (remove 2 dashes -- from line) the sounds you want unmuted in
     /Less-Slingload-Voice-Assist/Scripts/Speech/common_events.lua
 
-NOTE: If you want Russian a/c to still use English voice
-      use the other mod, LESS SLINGLOAD VOICE ENGLISH
-https://github.com/flying-huckleberry/Less-Slingload-Voice-English/releases
+NOTE: If you want the Russian voice for Russian aircraft,
+      use the other mod, LESS SLINGLOAD VOICE ASSIST
+https://github.com/flying-huckleberry/Less-Slingload-Voice-Assist/releases/latest
 
 by Chic and Huckleberry (A/229)
 flyinghuckleberry@gmail.com
